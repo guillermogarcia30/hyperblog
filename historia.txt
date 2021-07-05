@@ -5,3 +5,5 @@ trabajo en Betabox Technologies
 soy analista programador
 
 soy venezolano nativo
+
+tengo dominio de PHP
