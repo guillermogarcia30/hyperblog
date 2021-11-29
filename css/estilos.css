@@ -8,6 +8,9 @@ body{
 }
 
 #container{
+    background:#fff;
+}
+#container{
     background:rgb(255, 99, 99);
     font-size: 16px;
     width: 70%;
